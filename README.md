@@ -1,4 +1,4 @@
 Software-Design
 ===============
 
-C# Programs written for my Software Design class at BU
+C# programs written for my Software Design class at BU
